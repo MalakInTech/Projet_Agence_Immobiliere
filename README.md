@@ -190,7 +190,8 @@ Le projet dispose de diagrammes UML pour mieux comprendre la structure et le fon
 ## 📹 Video démo 
 
 
-[▶️ Voir la vidéo](Enregistrement%20de%20l%E2%80%99%C3%A9cran%202026-03-01%20192612.mp4)
+[▶️ Voir la vidéo](vidéo.mp4)
+
 
 
 
