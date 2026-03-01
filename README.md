@@ -19,7 +19,7 @@
 ## 👥 Auteurs
 Ce projet a été réalisé par :  
 - Malak El Mallouky  
-- Khadija Aziz  
+- Khadija Aziz 
 
 ---
 
@@ -190,6 +190,7 @@ Le projet dispose de diagrammes UML pour mieux comprendre la structure et le fon
 ## 📹 Video démo 
 
 [▶️ Télécharger la vidéo de démonstration](vidéo.mp4)
+
 
 
 
