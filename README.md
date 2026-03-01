@@ -189,7 +189,9 @@ Le projet dispose de diagrammes UML pour mieux comprendre la structure et le fon
 
 ## 📹 Video démo 
 
-[▶️ Télécharger la vidéo de démonstration](vidéo.mp4)
+https://github.com/user-attachments/assets/c2ce11ce-31e3-4883-89b6-769edda5a8cc
+
+
 
 
 
