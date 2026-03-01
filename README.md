@@ -183,11 +183,12 @@ Le projet dispose de diagrammes UML pour mieux comprendre la structure et le fon
 
 - README avec instructions
 
-- Setup Windows via Inno Setup (setup/Agence_Setup.exe)
+- Setup Windows via Inno Setup (agence_immo_setup/agence_immo_Setup.exe)
 
 ---
 
 ## 📹 Video démo 
+
 
 
 
